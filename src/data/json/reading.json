@@ -1,0 +1,36 @@
+[
+  {
+    "level": "A1",
+    "title": "A1 Reading",
+    "link": "/courses/reading/level=a1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8046_GettyImages-1036609896-hig.jpg?itok=ohVXKul1",
+    "description": "Reading practice to help you understand simple information, words and sentences about known topics. Texts include posters, messages, forms and timetables."
+  },
+  {
+    "level": "A2",
+    "title": "A2 Reading",
+    "link" : "/courses/reading/level=a2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-10/RS8045_GettyImages-656287929-hig.jpg?itok=spXIZVsV",
+    "description": "Reading practice to help you understand simple texts and find specific information in everyday material. Texts include emails, invitations, personal messages, tips, notices and signs."
+  },
+  {
+    "level": "B1",
+    "title": "B1 Reading",
+    "link": "/courses/reading/level=b1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-10/RS5896_182025553-hig.jpg?itok=3xbgNMsJ",
+    "description": "Reading practice to help you understand texts with everyday or job-related language. Texts include articles, travel guides, emails, adverts and reviews."
+  },
+  {
+    "level": "B2",
+    "title": "B2 Reading",
+    "link": "/courses/reading/level=b2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-10/RS8041_GettyImages-539434611-hig.jpg?itok=d6WUdhuC",
+    "description": "Reading practice to help you understand texts with a wide vocabulary where you may need to consider the writer's opinion. Texts include articles, reports, messages, short stories and reviews."
+  },
+  {
+    "level": "C1",
+    "title": "C1 Reading",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8037_GettyImages-985388610-hig.jpg?itok=6esjPBYy",
+    "description": "Reading practice to help you understand long, complex texts about a wide variety of topics, some of which may be unfamiliar. Texts include specialised articles, biographies and summaries."
+  }
+]

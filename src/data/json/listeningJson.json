@@ -1,0 +1,37 @@
+[
+  {
+    "level": "A1",
+    "title": "A1 Listening",
+    "link": "/courses/listening/level=a1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8042_GettyImages-1063745264-hig.jpg?itok=DRoksNHb",
+    "description": "Listening practice to help you understand familiar words and basic phrases when people speak slowly and clearly. Situations include meeting people, shopping and conversations at work!"
+  },
+  {
+    "level": "A2",
+    "title": "A2 Listening",
+    "link": "/courses/listening/level=a2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2022-10/RS8043_GettyImages-944241720-hig.jpeg?itok=mZibMrXs",
+    "description": "Listening practice to help you understand common vocabulary and expressions in short, clear dialogues. Situations include simple explanations, introductions, messages and announcements."
+  },
+  {
+    "level": "B1",
+    "title": "B1 Listening",
+    "link": "/courses/listening/level=b1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8048_GettyImages-722208805-hig.jpg?itok=ov88pjZ9",
+    "description": "Listening practice to help you understand the main points of clear, standard speech about everyday or job-related topics. Situations include phone calls, meetings and interviews."
+  },
+  {
+    "level": "B2",
+    "title": "B2 Listening",
+    "link": "/courses/listening/level=b2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8049_GettyImages-970432876-hig.jpg?itok=yzuyrEFF",
+    "description": "Listening practice to help you understand extended, standard speech about familiar topics that may contain complex ideas. Situations include broadcasts, reviews, presentations and lectures."
+  },
+  {
+    "level": "C1",
+    "title": "C1 Listening",
+    "link": "/courses/listening/level=c1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8051_GettyImages-970429194%20%281%29-hig.jpg?itok=RNdTEBrd",
+    "description": "Listening practice to help you understand extended speech about abstract, complex or unfamiliar topics. Situations include job interviews, lectures, talks and meetings."
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "level": "A1",
+    "title": "A1 Writing",
+    "link": "/courses/writing/level=a1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-10/RS8039_GettyImages-554489637-hig.jpg?itok=yON-REw5",
+    "description": "Writing practice to help you write short, simple texts about known topics and fill in forms. Texts include messages, emails and forms."
+  },
+  {
+    "level": "A2",
+    "title": "A2 Writing",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS5632_87624041.jpg?itok=pDjNkTok",
+    "description": "Writing practice to help you write short, simple texts, notes and messages. Texts include messages, forum posts, personal profiles, forms and emails."
+  },
+  {
+    "level": "B1",
+    "title": "B1 Writing",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8036_GettyImages-960950716-hig.jpg?itok=Aw5zt_ya",
+    "description": "Writing practice to help you write simple connected text on familiar topics that are of personal interest. Texts include forum posts, reviews, messages, short essays and emails."
+  },
+  {
+    "level": "B2",
+    "title": "B2 Writing",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8038_GettyImages-769720227-hig.jpg?itok=mAJIojJA",
+    "description": "Writing practice to help you write clear, detailed text on a wide range of topics related to your interests. Texts include essays, reports, reviews, messages and emails."
+  },
+  {
+    "level": "C1",
+    "title": "C1 Writing",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8040_GettyImages-1032847558-hig_0.jpg?itok=djtOAdPy",
+    "description": "Writing practice to help you write clear, well-structured texts about complex subjects. Texts include essays, proposals, articles, reports, reviews and emails."
+  }
+]

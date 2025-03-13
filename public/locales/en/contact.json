@@ -1,0 +1,67 @@
+{
+  "title": "Get in touch with",
+  "welcome": "Welcome to Contact Page",
+  
+  "des": "FAQ",
+  "con": "Contact",
+  "name": "FluentFlow",
+  "sub-des-faq": "for frequently ask question, check it out!",
+  "sub-des-con": "for our contact, check it out!",
+  "sub-des-name": "Checkout other lesson!",
+  "btn-des": "Ask Questions",
+  "btn-con": "Messages us",
+  "btn-name": "Coming Soon...",
+
+  "title-second": "Frequently Ask Question",
+
+  "title-faq": "FAQS",
+  "question1": "Why should I use FluentFlow website to learn English?",
+  "question2": "Do I need to register to access the content?",
+  "question3": "What types of lessons are available?",
+  "question4": "Is there content suitable for beginners?",
+  "question5": "How can I access the exercises?",
+  "question6": "How can I track my progress in learning English?",
+
+  "answer1": "Because it provides structured lessons and exercises.",
+  "answer2": "To start learning English with us, simply register for free! Unlock a full range of lessons, interactive exercises, and AI-powered support designed to help you improve your skills quickly and effectively. Join now and take the first step toward fluency!",
+  "answer3": "Grammar, vocabulary, speaking, and listening exercises.",
+  "answer4": "Yes, we offer content for all levels.",
+  "answer5": "After registering, you can access exercises in the learning section.",
+  "answer6": " You can track your progress through quizzes, exercises, and feedback on your performance. Our platform provides progress reports to help you see your improvement over time.",
+
+  "title-askUs": "Ask Us",
+  "name-input": "Your name",
+
+  "email": "Your email",
+  "subject": "Subject",
+  "question-ask": "Your Question",
+
+  "btn-submit": "Submit",
+
+  "name-placeholder": "Enter your name",
+  "email-placeholder": "Enter your email",
+  "subject-placeholder": "Enter any subject",
+  "question-ask-placeholder": "Your Question",
+
+  "title-third": "Contact Us",
+
+  "head-office": "Head Office",
+  "location-icon": "Beoung Kork 1, Toul Kork, Phnom Penh",
+
+  "ai-caption": "We Also Have",
+  "ai-caption2": "AI Support",
+  "ai-caption3": "for Your Learning Journey",
+  "ai-description": "Stuck on something? Don’t worry! located at the bottom right corner of your screen, is here to help you 24/7. Whether you need study tips, explanations, or guidance, just ask—it’s like having a tutor ready whenever you need it. Learning just got easier!",
+
+  "required-name" : "Name is required",
+  "required-email" : "Email is required",
+  "invalid-email" : "Invalid email",
+  "required-subject" : "Subject is required",
+  "required-question" : "Question is required",
+
+  "submitting" : "Submitting...",
+  "submit-success" : "Form submitted successfully!"
+
+ 
+
+}

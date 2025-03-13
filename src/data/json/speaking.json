@@ -1,0 +1,36 @@
+[
+  {
+    "level": "A1",
+    "title": "A1 Speaking",
+    "link": "/courses/speaking/level=a1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8133_GettyImages-746026051-hig.jpg?itok=otipARkv",
+    "description": "Speaking practice to help you learn useful language for everyday communication. Situations include meeting new people, checking understanding and making suggestions."
+  },
+  {
+    "level": "A2",
+    "title": "A2 Speaking",
+    "link": "/courses/reading/level=a2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS5884_186093891-hig.jpg?itok=WNtK7YuA",
+    "description": "Speaking practice to help you learn useful language for everyday communication. Situations include showing interest, talking about where you're from and talking about your job."
+  },
+  {
+    "level": "B1",
+    "title": "B1 Speaking",
+    "link": "/courses/reading/level=b1",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS8307_GettyImages-1084168538-hig.jpg?itok=kuqzbf_m",
+    "description": "Reading practice to help you understand texts with everyday or job-related language. Texts include articles, travel guides, emails, adverts and reviews."
+  },
+  {
+    "level": "B2",
+    "title": "B2 Speaking",
+    "link": "/courses/speaking/level=b2",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/2021-10/RS8041_GettyImages-539434611-hig.jpg?itok=d6WUdhuC",
+    "description": "Speaking practice to help you learn useful language for everyday communication. Situations include responding to news, meeting face-to-face and asking a favour."
+  },
+  {
+    "level": "C1",
+    "title": "C1 Speaking",
+    "img": "https://learnenglish.britishcouncil.org/sites/podcasts/files/styles/430x261_4/public/RS7897_ThinkstockPhotos-507959212-hig.jpg?itok=fwoEw6cc",
+    "description": "Speaking practice to help you learn useful language for everyday communication. Situations include giving advice, dealing with a problem and challenging someone's ideas."
+  }
+]
