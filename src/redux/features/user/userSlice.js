@@ -74,7 +74,7 @@ export const api = createApi({
       }),
     }),
     getUser: builder.query({
-      query: () => "/users/", // Endpoint to fetch user data
+      query: () => "/users", // Endpoint to fetch user data
     }),
   }),
 });
